@@ -1,0 +1,1009 @@
+.topSect{
+    margin-top: -16;
+    width: 100%;
+    height: 220px;
+    background-color:#004e96;
+    position: relative;
+}
+body{
+margin: 0;
+}
+.searchBar{
+    background-color: #004e96;
+    position: absolute;
+    height: 30px;
+    width: 100%;
+    top: 17px;
+    position: relative;
+}
+.searchInput{
+    outline: none;
+    border: none;
+    height: 30px;
+    width: 600px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.searchBox{
+    height: 30px;
+    width: 760px;
+    padding-left: 27%;
+    position: absolute;
+}
+.liMarker::marker{
+    font-size: 0;
+}
+.FontButton{
+    background: #004e96;
+    border: none;
+    color: antiquewhite;
+}
+.picBtn{
+    color: antiquewhite;
+    background: #004e96;
+    border: none;
+}
+.headOptn{
+    width: 80%;
+    height: 160px;
+    background-color: white;
+    border-radius: 70px 70px 0px 0px;
+    position: absolute;
+    bottom: 0;
+    left:10%;
+}
+.LogoSect{
+    width: 210px;
+    position: absolute;
+    left: 35px;
+    top: 35px;
+}
+.Login{
+    float: left;
+    width: 35%;
+    height: 80px;
+    background-color: white;
+    margin-left: 730px;
+}
+.Topintop{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    border-radius:70px 70px 0px 0px  ;
+    position: relative;
+}
+.Bottomintop{
+    width: 100%;
+    height: 60px;
+    position: relative;
+}
+.leftinTopin{
+    width: 50%;
+    height: 100px;
+    border-radius: 70px 0px 0px 0px ;
+    position: relative;
+}
+.rightinTopin{
+    width: 50%;
+    height: 100px;
+    border-radius: 0px 70px 0px 0px;
+    float:left
+}
+.MobIcn{
+    width: 58px;
+    position: absolute;
+    left: 360px;
+    top: 35px;
+}
+.Mobnum{
+    color: #004e96;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 35px;
+    left: 418px;
+}
+.LogBtn{
+    background-color: rgba(229, 189, 8, 0.819);
+    width: 200px;
+    height: 45px;
+    position: absolute;
+    top: 40px;
+    right: 260px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.EpointBtn{
+    background-color: rgba(229, 189, 8, 0.819);
+    width: 200px;
+    height: 45px;
+    position: absolute;
+    top: 40px;
+    right: 50px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.LogoLogin{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+.LogoEpnt{
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+.leftinBottomin{
+    width: 55%;
+    height: 60px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.Personal{
+    background: #004e96;
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+    border: none;
+    color: white;
+    width: 217px;
+    height: 50px;
+    border-radius: 28px 0px 0px 0px;
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+}
+.Nri{
+    background: #004e96;
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+    width: 217px;
+    height: 50px;
+    color: white;
+    border: none;
+    position: absolute;
+    bottom: 0px;
+    left: 222px;
+}
+.Business{
+    background: #004e96;
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif;
+    width: 217px;
+    height: 50px;
+    border: none;
+    border-radius: 0px 28px 0px 0px;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    left:439px ;
+}
+.Personal:hover{
+    background: rgba(209, 145, 7, 0.918);
+}
+.Business:hover{
+    background: rgba(209, 145, 7, 0.918) ;
+}
+.Nri:hover{
+    background: rgba(209, 145, 7, 0.918);
+}
+.RightinBottominTop{
+    width: 45%;
+    height: 60px;
+    position: absolute;
+    right: 0px;
+}
+.OpnAcc{
+    color: rgb(103, 100, 100);
+    font-size: 16px;
+    font-family: 'Titillium Web', sans-serif;
+    background: rgb(230, 227, 227);
+    height: 50px;
+    width: 380px;
+    border: none;
+    border-radius: 28px 28px 0px 0px;
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+}
+.SecondPart{
+    width: 100%;
+    height: 692px;
+    position: relative;
+}
+.JpegSect{
+    width: 100%;
+    height: 595px;
+    position: absolute;
+    top :0;
+    left: 0;
+    position: relative;
+}
+.firstImg{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.Navigation{
+    width: 100%;
+    height: 92px;
+    position: relative;
+    
+}
+.features{
+    background: rgba(209, 145, 7, 0.918);
+    border-radius: 50px;
+    height: 92px;
+    width: 78%;
+    position: absolute;
+    left: 11%;
+    box-shadow: 0 6px 6px rgb(0 0 0 / 20%);
+    transform: translateY(-60%);
+    display: flex;
+    justify-content: space-between;
+}
+.doit{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border-radius: 60px 0 0 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.doit:hover{
+    background: #f9b909;
+}
+.Pay{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Pay:hover{
+    background: #f9b909;
+}
+.Invest{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Invest:hover{
+    background: #f9b909;
+}
+.Borrow{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Borrow:hover{
+    background: #f9b909;
+}
+.Insure{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Insure:hover{
+    background: #f9b909;
+}
+.Shop{
+    background: white;
+    width: 197px;
+    height: 92px;
+    border-radius: 0px 30px 30px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Shop:hover{
+    background: #f9b909;
+}
+.Divide{
+    width: 90%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.feddy{
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+   
+
+}
+.feddy img{
+    padding-left: 1300px;
+    padding-top: 400px;
+    width: 120px;
+}
+
+.IconNav{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.IconName{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.IcName{
+    font-family: 'Titillium Web', sans-serif;
+    color: #004e96;
+}
+.IcName:hover{
+    color: white;
+}
+.iconinNav{
+    height: 100%;
+}
+.Thirdpart{
+    width: 100%;
+    height: 230px;
+    background: white;
+}
+.Fourthpart{
+    width: 100%;
+    height: 400px;
+    background: rgb(224, 214, 214);
+    position: relative;
+}
+.Imgsecond{
+    position: absolute;
+    width: 40%;
+    position: relative;
+}
+.img2{
+    position: absolute;
+    width: 600px;
+    box-shadow: 6px 6px 6px 6px rgb(0 0 0 / 20%);
+    transform: translateY(-50%);
+    border-radius: 35px;
+    left: 30%;
+}
+.Deals{
+    color: #004e96;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+    padding-left: 433px;
+}
+.content{
+    width: 430px;
+    height: 350px;
+    box-shadow: 6px 6px 6px 6px rgb(0 0 0 / 20%);
+    border-radius: 30px;
+    background: white;
+    transform: translateY(-50%);
+    position: absolute;
+    right: 15%;
+}
+.Notfy{
+    position: absolute;
+    top: 35px;
+    left: 50px;
+}
+.Announcement{
+    width: 350px;
+    height: 250px;
+    margin: 65px 40px;
+    background: white;
+    position: relative;
+}
+.Updates{
+    font-size: 25px;
+    color: #004e96;
+    padding-left: 75px;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 25px;
+}
+.contAnn{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 35px;
+}
+.contAnn2{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 14px;
+    position: absolute;
+    top: 160px;
+}
+.Knowmore{
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 100px;
+}
+.Knowmore2{
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 220px;
+}
+.line{
+    width: 100%;
+    height: 1px;
+    background: rgb(245, 185, 5);
+    position: absolute;
+    top: 130px;
+}
+.line2{
+    width: 100%;
+    height: 1px;
+    background: rgb(245, 185, 5);
+    position: absolute;
+    top: 250px;
+}
+.tryy{
+    height: 400px;
+    width: 400px;
+    background-image: url("images/2400-x-939.jpg");
+}
+.tryy:hover{
+    background-image: url("images/feddy-three.png");
+}
+.headAnn{
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 0px;
+}
+.headAnn2{
+    font-family: 'Titillium Web', sans-serif;
+    position: absolute;
+    top: 120px;
+}
+.Counts{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 60px;
+    display: flex;
+}
+.count1{
+    width: 16.6%;
+    height: 100%;
+}
+.count2{
+    width: 16.6%;
+    height: 100%;
+    display: flex;
+}
+.count3{
+    width: 16.6%;
+    height: 100%;
+    display: flex;
+}
+.count4{
+    width: 16.6%;
+    height: 100%;
+    display: flex;
+}
+.count5{
+    width: 16.6%;
+    height: 100%;
+    display: flex;
+}
+.count6{
+    width: 16.6%;
+    height: 100%;
+}
+.Imgsect{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+}
+.RemoveMark{
+    list-style-type: none;
+    padding: 0;
+}
+.Scale{
+    width: 70%;
+    height: 100%;
+    padding: 0px 0px 0px 10px;
+    display: flex;
+    align-items: center;
+}
+.CntIcon{
+    width: 75px;
+}
+.count{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(245, 185, 5);
+    font-family: 'Titillium Web', sans-serif;
+}
+.countName{
+    font-size: 19px;
+    font-weight: 600;
+    color: #004e96;
+    font-family: 'Titillium Web', sans-serif;
+}
+.SecondNav{
+    background: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.Nav2{
+    width: 60%;
+    height: 100%;
+    background: rgb(245, 185, 5);
+    border-radius: 40px;
+    transform: translateY(-50%);
+    box-shadow: 0px 0px 6px 6px rgb(0 0 0 / 20%);
+    display: flex;
+    justify-content: space-between;
+}
+.Tile1{
+    border-radius: 40px 0px 0px 40px;
+    width: 226px;
+    height: 100%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Tile2{
+    width:226px;
+    height: 100%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Tile3{
+    width: 226px;
+    height: 100%;
+    background: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Tile4{
+    width: 226px;
+    height: 100%;
+    background: white;
+    border-radius: 0px 40px 40px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont{
+    height: 80%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.contIcon{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contName{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Iconcont{
+    height: 100%;
+}
+.Namecont{
+    color: #004e96;
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.part6{
+    background: #7dbaf3;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.whatsnew{
+    font-size: 30px;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+.imgprt6{
+    width: 60%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img6form{
+    width: 100%;
+    border-radius: 40px;
+}
+.part7{
+    background: white;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Interest{
+    width: 70%;
+    height: 110%;
+    background: white;
+    box-shadow: 0px 0px 6px 6px rgb(0 0 0 / 20%);
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.IntstTittle{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.titleinterest{
+    color: #004e96;
+    font-size: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.recoment{
+    font-size: 15px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.gridsect{
+    width: 100%;
+    min-height: 50%;
+    display: flex;
+}
+.gridimg{
+    height: 100%;
+    border-radius: 100px;
+}
+.blog{
+    width: 363px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+   
+}
+.tutorial{
+    width: 363px;
+    height:  100%;
+    display: flex;
+    justify-content: center;
+ 
+}
+.safe{
+    width: 363px;
+    height:   100%;
+    display: flex;
+    justify-content: center;
+   
+}
+.definitions{
+    width: 100%;
+    height: 140%;
+    display: flex;
+}
+.blogdef{
+    width: 363px;
+    height:   100%;
+    display: flex;
+    flex-direction: column;
+}
+.tutdef{
+    width: 363px;
+    height:   100%;
+    display: flex;
+    flex-direction: column;
+}
+.safedef{
+    width: 363px;
+    height:   100%;
+    display: flex;
+    flex-direction: column;
+}
+.defTit{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.def{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.knomore{
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.titl{
+    font-family: 'Titillium Web', sans-serif;
+    size: 10px;
+    color: #004e96;
+}
+.de{
+    size: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+    padding: 0px 25px;
+}
+.lernmore{
+    font-weight: bold;
+    color: #004e96;
+    border: 0;
+    size: 20px;
+    background: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-family: 'Titillium Web', sans-serif;
+}
+.lernmore:hover{
+    background: #f9b909;
+}
+.dummy{
+    width: 100%;
+    height: 25px;
+    background: #031526;
+}
+.part8{
+    width: 100%;
+    height: 500px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+}
+.listhed{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.head1{
+    width: 29.9%;
+    height: 100%;
+    background: #031526;
+    display: flex;
+    align-items: center;
+}
+.head2{
+    width: 19.9%;
+    height: 100%;
+    background: #031526;
+    display: flex;
+    align-items: center;
+}
+.head3{
+    width: 19.9%;
+    height: 100%;
+    background: #031526;
+    display: flex;
+   align-items: center;
+}
+.head4{
+    width: 29.9%;
+    height: 100%;
+    background: #031526;
+    display: flex;
+   align-items: center;
+}
+.listed{
+    height: 80%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.list1{
+    width: 29.9%;
+    height: 100%;
+    background: #031526;
+}
+.list2{
+    width: 19.9%;
+    height: 100%;
+    background: #031526;
+}
+.list3{
+    width: 19.9%;
+    height: 100%;
+    background: #031526;
+}
+.list4{
+    width: 29.9%;
+    height: 100%;
+    background: #031526;
+}
+.part9{
+    width: 100%;
+    height: 350px;
+    background: #004e96;
+}
+.imsize{
+    width: 60px;
+    margin-left: 10px;
+}
+.head1img{
+    margin-left: 150px;
+    width: 60px;
+}
+.head1listTit{
+    margin-left: 150px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+    color: white;
+}
+.listTit{
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 17px;
+    color: white;
+    padding-left: 10px;
+}
+.markremover{
+    list-style-type: none;
+    padding-left: 150px;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+}
+.markremover2{
+    list-style-type: none;
+    padding-left: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+}
+.sociallogo{
+    padding-top: 60px;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+}
+.logos{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.fb{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.fb i{
+    color: white;
+    font-size: 50px;
+}
+.twiter{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.in{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.insta{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.youtube{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.whatsap{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bye{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.byeimg{
+    width: 50px;
+    height: 50px;
+}
+.share{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.save{
+    width: 11%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.disclaimer{
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+}
+.twiter i{
+    color: white;
+    font-size: 50px;
+}
+.in i{
+    color: white;
+    font-size: 50px;
+}
+.insta i{
+    color: white;
+    font-size: 50px;
+}
+.youtube i{
+    color: white;
+    font-size: 50px;
+}
+.whatsap i{
+    color: white;
+    font-size: 50px;
+}
+.share i{
+    color: white;
+    font-size: 50px;
+}
+.save i{
+    color: white;
+    font-size: 50px;
+}
+.Tile1:hover{
+    background: #f9b909;
+}
+.Tile2:hover{
+    background: #f9b909;
+}
+.Tile3:hover{
+    background: #f9b909;
+}
+.Tile4:hover{
+    background: #f9b909;
+}
