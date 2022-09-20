@@ -219,6 +219,7 @@ margin: 0;
     top :0;
     left: 0;
     position: relative;
+    
 }
 .firstImg{
     width: 100%;
@@ -322,18 +323,7 @@ margin: 0;
     display: flex;
     flex-direction: column;
 }
-.feddy{
-    width: 100%;
-    position: fixed;
-    z-index: 100;
-   
 
-}
-.feddy img{
-    padding-left: 1300px;
-    padding-top: 400px;
-    width: 120px;
-}
 
 .IconNav{
     height: 50%;
@@ -369,6 +359,7 @@ margin: 0;
     height: 400px;
     background: rgb(224, 214, 214);
     position: relative;
+ 
 }
 .Imgsecond{
     position: absolute;
